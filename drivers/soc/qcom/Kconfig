@@ -1,0 +1,3 @@
+config STATE_NOTIFIER
+        bool "State Notifier"
+	default n
